@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33d55100-a92e-4640-b6b6-288857eb748a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HW_Urban_Multiprocessing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcpectExampleWithMultiproccessing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcpectExampleWithOutMultiproccessing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_10_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BelyaevaAnya"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BelyaevaAnya/HW_Urban_Multiprocessing.git",
+    "accountId": "80a440b0-8ffb-4217-a4a9-08968490def9"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>

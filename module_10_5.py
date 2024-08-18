@@ -10,7 +10,6 @@ def read_info(name):
 
 
 if __name__ == '__main__':
-
     print(f'Вызов линейный')
     files_names = []
     for fl_num in range(1, 5):
@@ -20,7 +19,6 @@ if __name__ == '__main__':
         read_info(file)
     end = datetime.datetime.now()
     print(f'Время: {end - start}')
-
     print(f'Вызов многопроцессный')
     with multiprocessing.Pool(processes=4) as pool:
         start = datetime.datetime.now()
