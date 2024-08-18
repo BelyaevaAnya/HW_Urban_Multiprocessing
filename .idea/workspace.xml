@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33d55100-a92e-4640-b6b6-288857eb748a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PracticeResizeMakeWBimage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadingPractice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadingServesBinaryJazz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadingServesBinaryJazzThreads.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_10_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_9.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +62,12 @@
     "Python.Concpect1.executor": "Run",
     "Python.ConcpectExampleWithMultiproccessing.executor": "Run",
     "Python.ConcpectExampleWithOutMultiproccessing.executor": "Run",
+    "Python.Practice.executor": "Run",
+    "Python.PracticeResizeMakeWBimage.executor": "Run",
+    "Python.PracticeResizeWBimage.executor": "Run",
+    "Python.ThreadingPractice.executor": "Run",
+    "Python.ThreadingServes.executor": "Run",
+    "Python.ThreadingServesBinaryJazzThreads.executor": "Run",
     "Python.module_10_5.executor": "Run",
     "Python.sm.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
